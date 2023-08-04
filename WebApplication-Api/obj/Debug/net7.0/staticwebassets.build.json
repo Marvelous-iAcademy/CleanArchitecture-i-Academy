@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "rYSN73oNNz3rZJbsgO2RitFTZwIKTRIsB9tYUVMWeNE=",
+  "Source": "WebApplication-Api",
+  "BasePath": "_content/WebApplication-Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
